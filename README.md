@@ -126,3 +126,10 @@ If you see a model claiming literal 100% on natural language in any
 project, be skeptical — it almost always means overfitting, a duplicated
 dataset, or test-set leakage. The numbers in this project are real and
 reproducible by re-running `train_models.py`.
+
+APPENDIX
+13.1 GitHub & Project Demo Links
+GitHub Repository: https://github.com/36bhaskar2004/AI-Based-Threat-Intelligence-Platform-main.git
+
+Video Demonstration: https://drive.google.com/file/d/1pgT4tY-kXjhePk0XYl8oOkObdTZ5yK8F/view?usp=drive_link
+
