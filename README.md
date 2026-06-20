@@ -56,7 +56,7 @@ readable SQL.
 ## Project structure
 
 ```
-threat-intel-platform/
+AI-Based Threat Intelligence Platform/
 ├── backend/
 │   ├── app.py                  # Flask entry point — run this
 │   ├── config.py                # Central configuration & constants
